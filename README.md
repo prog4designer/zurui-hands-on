@@ -15,5 +15,5 @@
 
 と
 
-<pre><code class="bash">source/stylesheets/ディレクトリ/sample
+<pre><code class="bash">source/stylesheets/zurui/_tryout.css.sass
 </code></pre>
