@@ -1,19 +1,25 @@
 ## 立ち上げ方
 
-<pre><code class="bash">bundle exec middleman
-</code></pre>
+```
+$ git clone git://github.com/prog4designer/zurui-hands-on.git
+$ cd zurui-hands-on
+$ bundle install # または bundle install --path vendor/bundle
+$ bundle exec middleman
+```
 
 ## アクセス
 
-<a href="http://localhost:4567/" target="_blank">http://localhost:4567/</a>
+http://localhost:4567/
 
 
 ## 編集するSassファイルの場所
 
-<pre><code class="bash">source/stylesheets/application.sass
-</code></pre>
+```
+source/stylesheets/application.sass
+```
 
 と
 
-<pre><code class="bash">source/stylesheets/zurui/_tryout.css.sass
-</code></pre>
+```
+source/stylesheets/zurui/_tryout.css.sass
+```
