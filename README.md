@@ -9,7 +9,7 @@ $ bundle exec middleman
 
 ## アクセス
 
-http://localhost:4567/
+[http://localhost:4567/](http://localhost:4567/)
 
 
 ## 編集するSassファイルの場所
