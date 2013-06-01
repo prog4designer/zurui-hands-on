@@ -39,6 +39,7 @@
 
 # Automatic image dimensions on image_tag helper
 # activate :automatic_image_sizes
+activate :livereload
 
 # Methods defined in the helpers block are available in templates
 # helpers do
